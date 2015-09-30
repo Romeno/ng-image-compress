@@ -1,9 +1,10 @@
 {
   "name": "ng-image-compress",
   "version": "1.0",
-  "homepage": "https://github.com/sammychl/ng-image-compress.git",
+  "homepage": "https://github.com/romeno/ng-image-compress.git",
   "authors": [
-    "sammychl@hotmail.com"
+    "sammychl@hotmail.com",
+    "romenoex@gmail.com"
   ],
   "description": "compress image files on client side using angularjs",
   "main": "ng-image-compress.js",
